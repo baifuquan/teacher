@@ -6,3 +6,4 @@ win commit
 windows commit
 windows ssh
 ssss
+windows ssh commit
